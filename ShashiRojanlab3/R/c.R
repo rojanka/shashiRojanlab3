@@ -7,4 +7,4 @@
 #' b(1)
 
 c <-
-function(x){return(xbar^12)}
+function(x){return(xbar^
