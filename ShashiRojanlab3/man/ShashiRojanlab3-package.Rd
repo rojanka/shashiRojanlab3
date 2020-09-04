@@ -1,24 +1,24 @@
-\name{shashirojanlab3-package}
-\alias{shashirojanlab3-package}
-\alias{shashirojanlab3}
+\name{ShashiRojanlab3-package}
+\alias{ShashiRojanlab3-package}
+\alias{ShashiRojanlab3}
 \docType{package}
 \title{
-\packageTitle{shashirojanlab3}
+\packageTitle{ShashiRojanlab3}
 }
 \description{
-\packageDescription{shashirojanlab3}
+\packageDescription{ShashiRojanlab3}
 }
 \details{
 
 The DESCRIPTION file:
-\packageDESCRIPTION{shashirojanlab3}
-\packageIndices{shashirojanlab3}
+\packageDESCRIPTION{ShashiRojanlab3}
+\packageIndices{ShashiRojanlab3}
 ~~ An overview of how to use the package, including the most important functions ~~
 }
 \author{
-\packageAuthor{shashirojanlab3}
+\packageAuthor{ShashiRojanlab3}
 
-Maintainer: \packageMaintainer{shashirojanlab3}
+Maintainer: \packageMaintainer{ShashiRojanlab3}
 }
 \references{
 ~~ Literature or other references for background information ~~
