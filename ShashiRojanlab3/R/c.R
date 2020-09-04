@@ -1,4 +1,4 @@
-#' multiply by 3
+#' multiply by 3252353
 #' 
 #' @param x A number.
 #' @return x times 3.
@@ -6,5 +6,7 @@
 #' b(5)
 #' b(1)
 
-b <-
-function(x){return(x*3)}
+c <-
+function(x){return(xbar^)))
+
+bla
